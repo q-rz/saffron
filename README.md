@@ -1,5 +1,7 @@
 # Saffron-1: Inference Scaling for LLM Safety Assurance
 
+https://arxiv.org/abs/2506.06444
+
 More descriptions coming soon... Star 🌟 our repo to stay tuned!
 
 ## Dependencies
