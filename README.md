@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2506.06444
 
-More descriptions coming soon... 🌟 Star our repo to stay tuned!
+More descriptions coming soon... ⭐️ Star our repo to stay tuned!
 
 ![](https://raw.githubusercontent.com/q-rz/q-rz.github.io/main/p/saffron/saffron-fig1.jpg)
 
