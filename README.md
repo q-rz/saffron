@@ -1,6 +1,6 @@
 # Saffron-1: Inference Scaling for LLM Safety Assurance
 
-https://arxiv.org/abs/2506.06444
+[📖Paper](https://arxiv.org/abs/2506.06444) | [🌐Homepage](https://q-rz.github.io/p/saffron)
 
 More descriptions coming soon... ⭐️ Star our repo to stay tuned!
 
