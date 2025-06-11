@@ -4,6 +4,8 @@ https://arxiv.org/abs/2506.06444
 
 More descriptions coming soon... 🌟 Star our repo to stay tuned!
 
+![](https://raw.githubusercontent.com/q-rz/q-rz.github.io/main/p/saffron/saffron-fig1.jpg)
+
 ## Dependencies
 
 The code was tested under the following dependencies:
@@ -24,3 +26,5 @@ The code was tested under the following dependencies:
 ## Usage
 
 See `saffron.py`. More descriptions coming soon...
+
+![](https://raw.githubusercontent.com/q-rz/q-rz.github.io/main/p/saffron/saffron-fig2.jpg)
