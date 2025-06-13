@@ -1,12 +1,12 @@
 # Saffron-1: Inference Scaling for LLM Safety Assurance
 
-[📖Paper](https://arxiv.org/abs/2506.06444) | [🌐Homepage](https://q-rz.github.io/p/saffron)
+[📖 Paper](https://arxiv.org/abs/2506.06444) | [🏠 Homepage](https://q-rz.github.io/p/saffron)
 
 More descriptions coming soon... ⭐️ Star our repo to stay tuned!
 
 ![](https://raw.githubusercontent.com/q-rz/q-rz.github.io/main/p/saffron/saffron-fig1.jpg)
 
-## Dependencies
+## 🛠️ Dependencies
 
 The code was tested under the following dependencies:
 
@@ -23,10 +23,10 @@ The code was tested under the following dependencies:
 - `peft==0.15.0`
 - `deepspeed==0.16.7`
 
-## Usage
+## 🚀 Usage
 
 See `saffron.py`. More descriptions coming soon...
 
-## 📊Results
+## 📊 Results
 
 ![](https://raw.githubusercontent.com/q-rz/q-rz.github.io/main/p/saffron/saffron-fig2.jpg)
